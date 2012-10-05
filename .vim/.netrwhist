@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/yang/ns-3/stable/ns-allinone-3.13/ns-3.13/src/beacon/model'
+let g:netrw_dirhist_2='/etc/httpd/conf.d'
+let g:netrw_dirhist_3='/home/yang/results'
+let g:netrw_dirhist_4='/home/yang/results/murco'
+let g:netrw_dirhist_5='/var/www/html/webdev'
+let g:netrw_dirhist_6='/etc/httpd/conf.d'
+let g:netrw_dirhist_7='/home/yang/demo/portfolio'
