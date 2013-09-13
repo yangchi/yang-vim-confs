@@ -45,4 +45,4 @@ filetype plugin on
 filetype plugin indent on
 
 "turn on matchit
-source /usr/share/vim/vim73/macros/matchit.vim
+source /usr/share/vim/vim74/macros/matchit.vim
