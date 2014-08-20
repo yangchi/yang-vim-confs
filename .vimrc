@@ -48,3 +48,12 @@ filetype plugin indent on
 source /usr/share/vim/vim73/macros/matchit.vim
 
 set hlsearch
+
+"for vim-go
+"based on http://obahua.com/setup-vim-for-go-development/
+syntax enable  
+set number  
+let g:go_disable_autoinstall = 0  
+
+nmap <F8> :TagbarToggle<CR>
+map <C-n> :NERDTreeToggle<CR>
