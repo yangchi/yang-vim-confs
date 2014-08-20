@@ -25,8 +25,8 @@ endif
 set nocp
 map <C-F12> :!ctags -R --c++-kinds=+p --fields=+iaS --extra=+q --languages=c++ .<CR>
 
-set tags+=~/tags
-set tags+=./tags
+"set tags+=~/tags
+"set tags+=./tags
 set tags+=~/.vim/tags/stl
 set tags+=~/.vim/tags/ns-3.15.tag
 
@@ -45,4 +45,6 @@ filetype plugin on
 filetype plugin indent on
 
 "turn on matchit
-source /usr/share/vim/vim74/macros/matchit.vim
+source /usr/share/vim/vim73/macros/matchit.vim
+
+set hlsearch
